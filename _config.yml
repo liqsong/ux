@@ -1,0 +1,10 @@
+# basic options
+title: UX Designer
+author: Sonia Song
+email: liqsosng@gmail.com
+description: My UX portfolio website
+
+
+# Build settings
+markdown: kramdown
+theme: Minima
